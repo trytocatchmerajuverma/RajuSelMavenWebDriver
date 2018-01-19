@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite hostname="CP000340" name="scripts.script1" tests="1" failures="0" timestamp="21 Dec 2017 11:15:15 GMT" time="10.354" errors="0">
+  <testcase name="test" time="10.339" classname="scripts.script1"/>
+</testsuite>

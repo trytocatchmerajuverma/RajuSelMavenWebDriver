@@ -1,0 +1,8 @@
+[ 19-01-2018 08:41:21 PM ]: Broswer started up successfully for firefox
+[ 19-01-2018 08:41:28 PM ]: URL https://lms.sensiple.com/lms/#/login is able to navigate successfully
+[ 19-01-2018 08:41:35 PM ]: Window is maximized successfully
+[ 19-01-2018 08:41:35 PM ]: Entered Value of UserNameTextBox is set successfully
+[ 19-01-2018 08:41:36 PM ]: Entered Value of PasswordTextBox is set successfully
+[ 19-01-2018 08:41:36 PM ]: The Locator Element SignInButton is clicked successfully
+[ 19-01-2018 08:41:40 PM ]: The Locator Element Create Request is clicked successfully
+[ 19-01-2018 08:41:40 PM ]: The Locator Element Leave request is clicked successfully

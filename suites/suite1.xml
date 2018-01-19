@@ -1,0 +1,11 @@
+<suite name="suite1" parallel="tests" thread-count="2">
+<test name="test1">
+<classes>
+<class name="scripts.SamplePropertyFileReadable">
+<methods>
+<include name="test"></include>
+</methods>
+</class>
+</classes>
+</test>
+</suite>
